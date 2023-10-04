@@ -102,7 +102,7 @@
                         <h2 class="mb-4">Kategori</h2>
                         @foreach($categories as $categ)
                             <div class="d-flex flex-column justify-content-start bg-light p-3">
-                                <a class="h-5 mb-1 text-dark" style="text-decoration:none" href="/categories/{{ $categ->name }}"><i class="bi bi-arrow-right text-primary me-2"></i>{{ $categ->name }}</a>
+                                <a class="h-5 mb-1 text-dark" style="text-decoration:none" href="/categories/{{ $categ->slug }}"><i class="bi bi-arrow-right text-primary me-2"></i>{{ $categ->name }}</a>
                             </div>
                         @endforeach
                     </div>
