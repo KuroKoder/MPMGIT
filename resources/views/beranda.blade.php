@@ -14,7 +14,7 @@
                     <img class="w-100" src="/assets/img/carousel-1.jpg" alt="Image">
                     <div class="carousel-caption d-flex flex-column align-items-start justify-content-center ps-5">
                         <div class="text-start p-3" style="max-width: 900px;">
-                            <h5 class="text-white text-uppercase">Selamat Datang Di Rumah Sakit</h5>
+                            <h5 class="text-white text-uppercase">Selamat Datang Di Isekai</h5>
                             <h1 class="display-1 text-white mb-md-4">kankerserviks.com</h1>
                             <a href="#janji" class="btn btn-primary py-md-3 px-md-5 me-3 rounded-pill">Buat Janji</a>
                             {{-- <a href="" class="btn btn-light py-md-3 px-md-5 rounded-pill">Konsultasi Gratis</a> --}}
